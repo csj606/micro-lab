@@ -6,6 +6,6 @@ This repository will contain the necessary Bicep code to provision a HPC cluster
 
 ## Architecture:
 
-Azure AD for user management and login services
-Azure Kubernetes Service for providing compute capacity and managing parallel computing
+- Azure AD for user management and login services
+- Azure Kubernetes Service for providing compute capacity and managing parallel computing
 
